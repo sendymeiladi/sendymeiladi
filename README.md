@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IoT Embeded Engineer<br>👯 I’m looking to collaborate on Front-end Developer<br>🌱 I’m currently learning Machine Learning and Artificial Inteligence<br>💬 Ask me about Code Arduino IDE and Protocol Internet <br>⚡ Fun fact likes a challenge and survive in any situation
+🔭 I’m currently working on IoT Engineer<br>👯 I’m looking to collaborate on Front-end Developer<br>🌱 I’m currently learning Machine Learning and Artificial Inteligence<br>💬 Ask me about Code Arduino IDE and Protocol Internet <br>⚡ Fun fact likes a challenge and survive in any situation
 
 
 ## 🌐 Socials:
